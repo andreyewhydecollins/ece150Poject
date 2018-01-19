@@ -1,3 +1,3 @@
-# ece150Poject
+# ece150Project
 
-mybrain is fried
+mybrain is not fried
